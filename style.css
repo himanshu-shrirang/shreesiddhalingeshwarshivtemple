@@ -451,7 +451,7 @@ body::-webkit-scrollbar-thumb {
     }
 
     #about-images-part {
-        /* flex-direction: column; */
+        flex-direction: column;
     
     }
 
